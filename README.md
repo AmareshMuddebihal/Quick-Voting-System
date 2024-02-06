@@ -1,6 +1,8 @@
 # Quick-Voting-System-
 QuickVote: Simple HTML, CSS, and JavaScript Polling System with Candidate Selection and Dynamic Updates
 
+
+
 This repository contains the code for a simple web-based voting system, named QuickVote, implemented using HTML, CSS, and JavaScript. The system allows users to create polls with up to three candidates, cast votes, and view real-time vote counts. The application leverages sessionStorage for data persistence, enabling users to navigate between pages without losing poll and vote information. The code includes intuitive UI updates, dynamic content population, and a straightforward user experience. To use QuickVote, simply save your poll details, vote for candidates, and track the ongoing voting process effortlessly.
 
 <h3> Initialization and Data Retrieval:</h3>
